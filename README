@@ -1,0 +1,1 @@
+To install, make sure mongodb is installed. Then clone and run 'bundle install' in playground directory. Start with 'rails server'.
